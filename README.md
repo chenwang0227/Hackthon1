@@ -2,7 +2,7 @@
 AlgoMed
 
 # Project problem type
-provenance
+Provenance
 
 # Project industry
 Health Care
