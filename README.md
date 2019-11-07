@@ -11,5 +11,5 @@ Health Care
 Progressive Web App, Algorand SDK
 
 # Participants
-John Smith: jhons@andrew.cmu.edu
+John Smith: jhons@andrew.cmu.edu\n
 Ellen Walkar: ellenw@andrew.cmu.edu
