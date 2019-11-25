@@ -11,8 +11,8 @@ Health Care
 Progressive Web App, Algorand SDK
 
 # Participants
-John Smith: jhons@andrew.cmu.edu<br/>
-Ellen Walkar: ellenw@andrew.cmu.edu
+Marcus Lee: shengwel@andrew.cmu.edu<br/>
+Xiangyue Meng: xiangyum@andrew.cmu.edu
 
 # Descriptions
 The AlgoMed – Computerized Pressure Algometer is the first software-based computerized Algometer to offer real-time visual & auditory feedback to control & monitor applied pressure rates.
